@@ -4,7 +4,7 @@ import { Provider } from 'react-redux';
 import RootNavigator from '@navigation/RootNavigator';
 import I18nProvider from '@components/I18nProvider';
 import OfflineProvider from '@components/OfflineProvider';
-import { store } from './src/store';
+import { store } from '@/store';
 
 function App() {
   return (
