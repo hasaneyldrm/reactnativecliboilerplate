@@ -380,5 +380,12 @@
     "hint": "Sözünü verene kadar bırakma",
     "completed_title": "Harika!",
     "completed_subtitle": "Artık hazırsın, hadi başlayalım!"
+  },
+  "offline": {
+    "title": "İnternet bağlantısı yok",
+    "network_message": "Şu anda internete bağlanamıyoruz. Lütfen bağlantını kontrol et.",
+    "request_error_message": "Bir hata oluştu. Lütfen internet bağlantını kontrol edip tekrar dene.",
+    "retry_button": "Tekrar dene",
+    "restart_hint": "İnternet bağlantısı hâlâ yok. Lütfen bağlantını kontrol ettikten sonra uygulamayı yeniden başlat."
   }
 }

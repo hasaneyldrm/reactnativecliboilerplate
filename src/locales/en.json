@@ -380,5 +380,12 @@
     "hint": "Don't let go until you make your promise",
     "completed_title": "Amazing!",
     "completed_subtitle": "You're ready, let's get started!"
+  },
+  "offline": {
+    "title": "No internet connection",
+    "network_message": "We can't connect to the internet right now. Please check your connection.",
+    "request_error_message": "Something went wrong. Please check your internet connection and try again.",
+    "retry_button": "Retry",
+    "restart_hint": "You are still offline. Please check your connection and restart the app."
   }
 }
